@@ -16,7 +16,7 @@ HTMLWidgets.widget({
 
         var option = {
           title: {
-            text: 'ECharts Getting Started Example'
+            text: 'Eu que fiz!'
           },
           tooltip: {},
           legend: {
